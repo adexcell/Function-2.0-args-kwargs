@@ -66,5 +66,5 @@ book.out_contact()
 
 book.out_contact()
 book.all_favorite_tel()
-book.search_by_name_surname('Yakov', 'Fat')
+book.search_by_name_surname('Pocahontas', 'Powhatan')
 print(book)
